@@ -1,0 +1,3 @@
+﻿  FinalProject.cpp
+C:\Users\abdul\OneDrive\Documents\CSS 487\FinalProject\OpencvProject\OpencvProject\FinalProject.cpp(186,42): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  OpencvProject.vcxproj -> C:\Users\abdul\OneDrive\Documents\CSS 487\FinalProject\OpencvProject\x64\Debug\OpencvProject.exe
